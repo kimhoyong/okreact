@@ -18,7 +18,7 @@ function AjaxTest() {
 
   return (
     <>
-      <h1>Ajax Test123</h1>
+      <h1>Ajax Test_khy</h1>
       <Link to="/">Home</Link> | <Link to="/mypage">My Page</Link> |
       <Link to="/ajaxtest">Ajax Test</Link>
       <hr />
